@@ -82,9 +82,9 @@
 </div>
 
 ### Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://savindunethmika.netlify.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://savindunethmika.pages.dev/) 
   ```bash
-    https://savindunethmika.netlify.app/
+    https://savindunethmika.pages.dev/
   ```
 ---
 
